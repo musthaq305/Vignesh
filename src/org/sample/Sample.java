@@ -4,7 +4,11 @@ public class Sample {
 
 public static void main(String[] args) {
 	
-
 	System.out.println("Narasingam Completed his Work");
+	System.out.println("Niyas Completed his Work");
+
+
+	
+
 }
 }
